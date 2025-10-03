@@ -73,17 +73,17 @@ python-100-days-challenge/
 ├── .gitignore               # Python-specific gitignore
 │
 ├── Day-001-Band-Name/
-│   ├── main.py             # Main project code
+│   ├── task.py             # Main project code
 │   ├── notes.md            # Daily learnings & notes
 │   └── README.md           # Project-specific documentation
 │
 ├── Day-002-Tip-Calculator/
-│   ├── main.py
+│   ├── task.py
 │   ├── notes.md
 │   └── README.md
 │
 ├── Day-003-Treasure-Island/
-│   ├── main.py
+│   ├── task.py
 │   ├── notes.md
 │   └── README.md
 │
@@ -91,7 +91,7 @@ python-100-days-challenge/
 ```
 
 Each day's folder contains:
-- **`main.py`** - The complete, working project code
+- **`task.py`** - The complete, working project code
 - **`notes.md`** - Key concepts, challenges faced, and solutions
 - **`README.md`** - Project description, instructions, and screenshots
 
