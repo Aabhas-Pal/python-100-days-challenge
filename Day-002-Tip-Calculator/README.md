@@ -91,7 +91,7 @@ By completing this project, I learned:
 3. Navigate to the `Day-02` folder
 4. Run the program:
    ```bash
-   python main.py
+   python task.py
    ```
 5. Follow the on-screen prompts
 
@@ -147,14 +147,7 @@ Connect with me:
 [← Day 1: Band Name Generator](../Day-001) | [Day 3: Treasure Island →](../Coming Soon...)
 ```
 
----
-
-## 📄 File 2: notes.md
-
-```markdown
-# 📝 Day 2 Learning Notes - Tip Calculator
-
-**Date:** [Your Date]  
+**Date:** [06/10/25]  
 **Day:** 2/100  
 **Topic:** Data Types & Type Conversion  
 **Time Spent:** ~1-1.5 hours
