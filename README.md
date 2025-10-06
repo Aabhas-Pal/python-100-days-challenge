@@ -44,16 +44,16 @@ The **100 Days of Code** challenge is an intensive, project-based learning exper
 ## 📊 Progress Tracker
 
 **Challenge Started:** October 5, 2025  
-**Days Completed:** 0 / 100  
-**Current Streak:** 0 days 🔥  
-**Projects Built:** 0
+**Days Completed:** 2 / 100  
+**Current Streak:** 2 days 🔥  
+**Projects Built:** 2
 
 ### 📅 Daily Log
 
 | Day | Date | Topic | Project/Exercise | Skills Learned | Status |
 |:---:|:----:|:------|:----------------|:--------------|:------:|
 | 1 | Oct 5 | Working with Variables | Band Name Generator | Variables, Input, Print | ✅ |
-| 2 | - | Data Types | Tip Calculator | String manipulation, Type conversion | ⏳ |
+| 2 | - | Data Types | Tip Calculator | String manipulation, Type conversion | ✅ |
 | 3 | - | Control Flow | Treasure Island Game | If/else, Conditionals | ⏳ |
 | 4 | - | Randomization & Lists | Rock Paper Scissors | Random module, Lists | ⏳ |
 | 5 | - | Loops | Password Generator | For loops, While loops | ⏳ |
