@@ -44,9 +44,9 @@ The **100 Days of Code** challenge is an intensive, project-based learning exper
 ## 📊 Progress Tracker
 
 **Challenge Started:** October 5, 2025  
-**Days Completed:** 2 / 100  
-**Current Streak:** 2 days 🔥  
-**Projects Built:** 2
+**Days Completed:** 3 / 100  
+**Current Streak:** 3 days 🔥  
+**Projects Built:** 3
 
 ### 📅 Daily Log
 
@@ -54,7 +54,7 @@ The **100 Days of Code** challenge is an intensive, project-based learning exper
 |:---:|:----:|:------|:----------------|:--------------|:------:|
 | 1 | Oct 5 | Working with Variables | Band Name Generator | Variables, Input, Print | ✅ |
 | 2 | - | Data Types | Tip Calculator | String manipulation, Type conversion | ✅ |
-| 3 | - | Control Flow | Treasure Island Game | If/else, Conditionals | ⏳ |
+| 3 | - | Control Flow | Treasure Island Game | If/else, Conditionals | ✅ |
 | 4 | - | Randomization & Lists | Rock Paper Scissors | Random module, Lists | ⏳ |
 | 5 | - | Loops | Password Generator | For loops, While loops | ⏳ |
 | ... | ... | ... | ... | ... | ... |
@@ -261,6 +261,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Started:** October 5, 2025 | **Last Updated:** October 5, 2025
+**Started:** October 5, 2025 | **Last Updated:** October 10, 2025
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.python-100-days-challenge)
