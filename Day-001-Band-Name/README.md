@@ -6,7 +6,8 @@ Each day includes a small project, notes, and documentation.
 ## 📂 Project Structure
 - **Day-001-Band-Name/** → Band Name Generator project  
 - **Day-002-Tip-Calculator/** → Tip Calculator project  
-- **Day-003-Treasure-Island/** → Treasure Island adventure game  
+- **Day-003-Treasure-Island/** → Treasure Island adventure game
+- **Day-004-Rock-Paper-Scissors/** → Rock Paper Scissors game
 - ... continuing till Day 100  
 
 ## 🎯 Goals
